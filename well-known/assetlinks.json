@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.trex.deckdesigner.qa",
+      "sha256_cert_fingerprints":
+      ["A6:3C:4D:CF:33:65:37:DF:93:3B:54:1E:40:94:BE:43:81:25:B6:26:50:5D:8F:16:B3:30:2D:F4:D1:0C:8E:B8"]
+    }
+  }]
